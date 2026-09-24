@@ -2,3 +2,5 @@ fastapi
 uvicorn
 scikit-learn
 pydantic
+google-generativeai
+python-dotenv
